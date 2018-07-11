@@ -1,5 +1,3 @@
-// i am trying to using the github from home so i am adding this line tonight 
-
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { Card,Divider,Button,Icon,Modal,DatePicker,Select,Badge,BackTop,Input,Row, Col,Timeline,Table,Affix,Popover,Steps,message } from 'antd';
