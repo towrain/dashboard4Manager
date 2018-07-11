@@ -242,6 +242,7 @@ class ManagerDashBoard extends React.Component {
                             </OptGroup>
                         </Select>   
                         <hr/>
+                        <hr/>
                         <div>
                         <LineChart width={1050} height={400} data={this.state.chartData} style={this.state.chartStyle}>
                             <XAxis dataKey="name" label={{ value: "Date", position: 'insideBottomRight', offset: -5 }}/>
